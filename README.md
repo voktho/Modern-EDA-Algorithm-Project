@@ -21,6 +21,7 @@ This project implements a **fast and congestion-aware global routing algorithm**
 Tested on small and large grid sizes:
 - 10×10 (Basic)
 - 324×324 (Large scale, 100+ nets)
+- 557x463 Grid
 - ISPD 2008 Global rounting benchmarks
   
 Performance evaluated based on:
