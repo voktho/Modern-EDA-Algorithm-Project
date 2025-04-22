@@ -1,0 +1,46 @@
+
+Routing Path for (4, 5) -> (8, 8): 
+(4, 5) -> (5, 6) -> (6, 7) -> (7, 8) -> (8, 8)
+Total Wirelength: 4
+
+
+Routing Path for (1, 0) -> (7, 7): 
+(1, 0) -> (2, 1) -> (3, 2) -> (4, 3) -> (5, 4) -> (6, 5) -> (7, 6) -> (7, 7)
+Total Wirelength: 7
+
+
+Routing Path for (1, 2) -> (5, 4): 
+(1, 2) -> (2, 3) -> (3, 4) -> (4, 4) -> (5, 4)
+Total Wirelength: 4
+
+
+Routing Path for (3, 2) -> (8, 7): 
+(3, 2) -> (4, 3) -> (5, 4) -> (6, 5) -> (7, 6) -> (8, 7)
+Total Wirelength: 5
+
+
+Routing Path for (2, 1) -> (9, 9): 
+(2, 1) -> (3, 1) -> (4, 2) -> (5, 3) -> (6, 4) -> (7, 5) -> (8, 6) -> (9, 7) -> (9, 8) -> (9, 9)
+Total Wirelength: 9
+
+
+Routing Path for (2, 2) -> (7, 6): 
+(2, 2) -> (3, 3) -> (4, 4) -> (5, 5) -> (6, 6) -> (7, 6)
+Total Wirelength: 5
+
+
+Routing Path for (2, 0) -> (6, 5): 
+(2, 0) -> (3, 1) -> (4, 2) -> (5, 3) -> (6, 4) -> (6, 5)
+Total Wirelength: 5
+
+
+Routing Path for (5, 5) -> (9, 9): 
+(5, 5) -> (6, 6) -> (7, 7) -> (8, 8) -> (9, 9)
+Total Wirelength: 4
+
+
+[RESULT] Congestion Summary:
+  - Overused Nodes: 0
+  - Max Congestion: 3
+  - Avg Congestion: 0.43
+[STATUS] Congestion: Balanced

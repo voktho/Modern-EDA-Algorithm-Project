@@ -1,0 +1,480 @@
+
+[INFO] Congested Nodes: {(39, 25)}
+WARNING: No valid path for (39, 23) -> (39, 25)
+WARNING: No valid path for (39, 24) -> (39, 25)
+
+Routing Path for (14, 51) -> (14, 32): 
+(14, 51) -> (13, 50) -> (14, 49) -> (13, 48) -> (14, 47) -> (13, 46) -> (14, 45) -> (13, 44) -> (14, 43) -> (13, 42) -> (14, 41) -> (13, 40) -> (14, 39) -> (13, 38) -> (14, 37) -> (13, 36) -> (14, 35) -> (14, 34) -> (14, 33) -> (14, 32)
+Total Wirelength: 19
+
+
+Routing Path for (8, 28) -> (15, 32): 
+(8, 28) -> (9, 29) -> (10, 30) -> (11, 31) -> (12, 32) -> (13, 32) -> (14, 32) -> (15, 32)
+Total Wirelength: 7
+
+
+Routing Path for (34, 15) -> (34, 13): 
+(34, 15) -> (34, 14) -> (34, 13)
+Total Wirelength: 2
+
+
+Routing Path for (34, 14) -> (34, 14): 
+(34, 14)
+Total Wirelength: 0
+
+
+Routing Path for (34, 15) -> (34, 15): 
+(34, 15)
+Total Wirelength: 0
+
+
+Routing Path for (36, 11) -> (36, 11): 
+(36, 11)
+Total Wirelength: 0
+
+
+Routing Path for (39, 23) -> (39, 25): 
+(39, 23) -> (40, 24) -> (39, 25)
+Total Wirelength: 2
+
+
+Routing Path for (39, 24) -> (39, 25): 
+(39, 24) -> (39, 25)
+Total Wirelength: 1
+
+
+Routing Path for (39, 23) -> (39, 24): 
+(39, 23) -> (39, 24)
+Total Wirelength: 1
+
+
+Routing Path for (39, 25) -> (39, 24): 
+(39, 25) -> (39, 24)
+Total Wirelength: 1
+
+
+Routing Path for (39, 25) -> (39, 25): 
+(39, 25)
+Total Wirelength: 0
+
+
+Routing Path for (39, 24) -> (39, 24): 
+(39, 24)
+Total Wirelength: 0
+
+
+Routing Path for (400, 444) -> (401, 444): 
+(400, 444) -> (401, 444)
+Total Wirelength: 1
+
+
+Routing Path for (611, 518) -> (612, 518): 
+(611, 518) -> (612, 518)
+Total Wirelength: 1
+
+
+Routing Path for (365, 569) -> (365, 570): 
+(365, 569) -> (365, 570)
+Total Wirelength: 1
+
+
+Routing Path for (197, 339) -> (197, 340): 
+(197, 339) -> (197, 340)
+Total Wirelength: 1
+
+
+Routing Path for (411, 580) -> (411, 581): 
+(411, 580) -> (411, 581)
+Total Wirelength: 1
+
+
+Routing Path for (641, 164) -> (641, 165): 
+(641, 164) -> (641, 165)
+Total Wirelength: 1
+
+
+Routing Path for (609, 262) -> (610, 262): 
+(609, 262) -> (610, 262)
+Total Wirelength: 1
+
+
+Routing Path for (344, 124) -> (344, 125): 
+(344, 124) -> (344, 125)
+Total Wirelength: 1
+
+
+Routing Path for (123, 272) -> (123, 273): 
+(123, 272) -> (123, 273)
+Total Wirelength: 1
+
+
+Routing Path for (155, 641) -> (155, 642): 
+(155, 641) -> (155, 642)
+Total Wirelength: 1
+
+
+Routing Path for (148, 684) -> (148, 685): 
+(148, 684) -> (148, 685)
+Total Wirelength: 1
+
+
+Routing Path for (601, 702) -> (601, 703): 
+(601, 702) -> (601, 703)
+Total Wirelength: 1
+
+
+Routing Path for (111, 17) -> (112, 17): 
+(111, 17) -> (112, 17)
+Total Wirelength: 1
+
+
+Routing Path for (388, 295) -> (388, 296): 
+(388, 295) -> (388, 296)
+Total Wirelength: 1
+
+
+Routing Path for (104, 592) -> (105, 592): 
+(104, 592) -> (105, 592)
+Total Wirelength: 1
+
+
+Routing Path for (748, 212) -> (749, 212): 
+(748, 212) -> (749, 212)
+Total Wirelength: 1
+
+
+Routing Path for (534, 458) -> (534, 459): 
+(534, 458) -> (534, 459)
+Total Wirelength: 1
+
+
+Routing Path for (372, 699) -> (373, 699): 
+(372, 699) -> (373, 699)
+Total Wirelength: 1
+
+
+Routing Path for (198, 462) -> (199, 462): 
+(198, 462) -> (199, 462)
+Total Wirelength: 1
+
+
+Routing Path for (236, 18) -> (236, 19): 
+(236, 18) -> (236, 19)
+Total Wirelength: 1
+
+
+Routing Path for (19, 66) -> (19, 67): 
+(19, 66) -> (19, 67)
+Total Wirelength: 1
+
+
+Routing Path for (143, 197) -> (144, 197): 
+(143, 197) -> (144, 197)
+Total Wirelength: 1
+
+
+Routing Path for (228, 749) -> (228, 750): 
+(228, 749) -> (228, 750)
+Total Wirelength: 1
+
+
+Routing Path for (222, 71) -> (223, 71): 
+(222, 71) -> (223, 71)
+Total Wirelength: 1
+
+
+Routing Path for (258, 370) -> (259, 370): 
+(258, 370) -> (259, 370)
+Total Wirelength: 1
+
+
+Routing Path for (384, 485) -> (385, 485): 
+(384, 485) -> (385, 485)
+Total Wirelength: 1
+
+
+Routing Path for (193, 408) -> (194, 408): 
+(193, 408) -> (194, 408)
+Total Wirelength: 1
+
+
+Routing Path for (119, 289) -> (119, 290): 
+(119, 289) -> (119, 290)
+Total Wirelength: 1
+
+
+Routing Path for (641, 31) -> (641, 32): 
+(641, 31) -> (641, 32)
+Total Wirelength: 1
+
+
+Routing Path for (596, 643) -> (597, 643): 
+(596, 643) -> (597, 643)
+Total Wirelength: 1
+
+
+Routing Path for (276, 231) -> (277, 231): 
+(276, 231) -> (277, 231)
+Total Wirelength: 1
+
+
+Routing Path for (358, 188) -> (359, 188): 
+(358, 188) -> (359, 188)
+Total Wirelength: 1
+
+
+Routing Path for (555, 627) -> (556, 627): 
+(555, 627) -> (556, 627)
+Total Wirelength: 1
+
+
+Routing Path for (729, 158) -> (730, 158): 
+(729, 158) -> (730, 158)
+Total Wirelength: 1
+
+
+Routing Path for (739, 318) -> (740, 318): 
+(739, 318) -> (740, 318)
+Total Wirelength: 1
+
+
+Routing Path for (568, 136) -> (568, 137): 
+(568, 136) -> (568, 137)
+Total Wirelength: 1
+
+
+Routing Path for (498, 408) -> (498, 409): 
+(498, 408) -> (498, 409)
+Total Wirelength: 1
+
+
+Routing Path for (613, 757) -> (614, 757): 
+(613, 757) -> (614, 757)
+Total Wirelength: 1
+
+
+Routing Path for (460, 391) -> (461, 391): 
+(460, 391) -> (461, 391)
+Total Wirelength: 1
+
+
+Routing Path for (23, 603) -> (24, 603): 
+(23, 603) -> (24, 603)
+Total Wirelength: 1
+
+
+Routing Path for (102, 386) -> (102, 387): 
+(102, 386) -> (102, 387)
+Total Wirelength: 1
+
+
+Routing Path for (729, 229) -> (730, 229): 
+(729, 229) -> (730, 229)
+Total Wirelength: 1
+
+
+Routing Path for (472, 375) -> (472, 376): 
+(472, 375) -> (472, 376)
+Total Wirelength: 1
+
+
+Routing Path for (771, 134) -> (771, 135): 
+(771, 134) -> (771, 135)
+Total Wirelength: 1
+
+
+Routing Path for (684, 574) -> (684, 575): 
+(684, 574) -> (684, 575)
+Total Wirelength: 1
+
+
+Routing Path for (191, 737) -> (192, 737): 
+(191, 737) -> (192, 737)
+Total Wirelength: 1
+
+
+Routing Path for (295, 559) -> (295, 560): 
+(295, 559) -> (295, 560)
+Total Wirelength: 1
+
+
+Routing Path for (769, 482) -> (769, 483): 
+(769, 482) -> (769, 483)
+Total Wirelength: 1
+
+
+Routing Path for (495, 490) -> (496, 490): 
+(495, 490) -> (496, 490)
+Total Wirelength: 1
+
+
+Routing Path for (308, 730) -> (309, 730): 
+(308, 730) -> (309, 730)
+Total Wirelength: 1
+
+
+Routing Path for (437, 557) -> (437, 558): 
+(437, 557) -> (437, 558)
+Total Wirelength: 1
+
+
+Routing Path for (673, 204) -> (674, 204): 
+(673, 204) -> (674, 204)
+Total Wirelength: 1
+
+
+Routing Path for (152, 387) -> (153, 387): 
+(152, 387) -> (153, 387)
+Total Wirelength: 1
+
+
+Routing Path for (311, 527) -> (311, 528): 
+(311, 527) -> (311, 528)
+Total Wirelength: 1
+
+
+Routing Path for (391, 106) -> (391, 107): 
+(391, 106) -> (391, 107)
+Total Wirelength: 1
+
+
+Routing Path for (744, 282) -> (745, 282): 
+(744, 282) -> (745, 282)
+Total Wirelength: 1
+
+
+Routing Path for (375, 629) -> (376, 629): 
+(375, 629) -> (376, 629)
+Total Wirelength: 1
+
+
+Routing Path for (556, 637) -> (556, 638): 
+(556, 637) -> (556, 638)
+Total Wirelength: 1
+
+
+Routing Path for (340, 588) -> (340, 589): 
+(340, 588) -> (340, 589)
+Total Wirelength: 1
+
+
+Routing Path for (29, 658) -> (30, 658): 
+(29, 658) -> (30, 658)
+Total Wirelength: 1
+
+
+Routing Path for (457, 428) -> (457, 429): 
+(457, 428) -> (457, 429)
+Total Wirelength: 1
+
+
+Routing Path for (556, 669) -> (557, 669): 
+(556, 669) -> (557, 669)
+Total Wirelength: 1
+
+
+Routing Path for (55, 168) -> (55, 169): 
+(55, 168) -> (55, 169)
+Total Wirelength: 1
+
+
+Routing Path for (726, 284) -> (727, 284): 
+(726, 284) -> (727, 284)
+Total Wirelength: 1
+
+
+Routing Path for (534, 729) -> (535, 729): 
+(534, 729) -> (535, 729)
+Total Wirelength: 1
+
+
+Routing Path for (715, 441) -> (716, 441): 
+(715, 441) -> (716, 441)
+Total Wirelength: 1
+
+
+Routing Path for (729, 50) -> (730, 50): 
+(729, 50) -> (730, 50)
+Total Wirelength: 1
+
+
+Routing Path for (413, 106) -> (414, 106): 
+(413, 106) -> (414, 106)
+Total Wirelength: 1
+
+
+Routing Path for (35, 413) -> (35, 414): 
+(35, 413) -> (35, 414)
+Total Wirelength: 1
+
+
+Routing Path for (525, 562) -> (526, 562): 
+(525, 562) -> (526, 562)
+Total Wirelength: 1
+
+
+Routing Path for (107, 708) -> (107, 709): 
+(107, 708) -> (107, 709)
+Total Wirelength: 1
+
+
+Routing Path for (731, 148) -> (732, 148): 
+(731, 148) -> (732, 148)
+Total Wirelength: 1
+
+
+Routing Path for (464, 314) -> (464, 315): 
+(464, 314) -> (464, 315)
+Total Wirelength: 1
+
+
+Routing Path for (747, 288) -> (748, 288): 
+(747, 288) -> (748, 288)
+Total Wirelength: 1
+
+
+Routing Path for (453, 406) -> (454, 406): 
+(453, 406) -> (454, 406)
+Total Wirelength: 1
+
+
+Routing Path for (488, 380) -> (488, 381): 
+(488, 380) -> (488, 381)
+Total Wirelength: 1
+
+
+Routing Path for (384, 77) -> (385, 77): 
+(384, 77) -> (385, 77)
+Total Wirelength: 1
+
+
+Routing Path for (473, 455) -> (473, 456): 
+(473, 455) -> (473, 456)
+Total Wirelength: 1
+
+
+Routing Path for (738, 46) -> (738, 47): 
+(738, 46) -> (738, 47)
+Total Wirelength: 1
+
+
+Routing Path for (307, 718) -> (308, 718): 
+(307, 718) -> (308, 718)
+Total Wirelength: 1
+
+
+Routing Path for (759, 66) -> (760, 66): 
+(759, 66) -> (760, 66)
+Total Wirelength: 1
+
+
+Routing Path for (130, 69) -> (131, 69): 
+(130, 69) -> (131, 69)
+Total Wirelength: 1
+
+
+[RESULT] Congestion Summary:
+  - Overused Nodes: 0
+  - Max Congestion: 2
+  - Avg Congestion: 0.00
+[STATUS] Congestion: Balanced

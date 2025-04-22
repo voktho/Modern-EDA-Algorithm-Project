@@ -1,0 +1,193 @@
+
+[INFO] Congested Nodes: {(27, 24), (12, 13), (13, 13), (11, 12), (11, 11)}
+WARNING: No valid path for (11, 13) -> (12, 13)
+WARNING: No valid path for (11, 12) -> (12, 13)
+WARNING: No valid path for (26, 24) -> (27, 24)
+WARNING: No valid path for (12, 13) -> (13, 13)
+WARNING: No valid path for (12, 12) -> (13, 13)
+WARNING: No valid path for (12, 13) -> (11, 12)
+WARNING: No valid path for (12, 12) -> (11, 12)
+WARNING: No valid path for (11, 13) -> (11, 12)
+WARNING: No valid path for (12, 11) -> (11, 11)
+WARNING: No valid path for (12, 12) -> (11, 11)
+WARNING: No valid path for (11, 12) -> (11, 11)
+WARNING: No valid path for (26, 23) -> (27, 24)
+WARNING: No valid path for (13, 12) -> (12, 13)
+WARNING: No valid path for (13, 12) -> (13, 13)
+WARNING: No valid path for (24, 24) -> (27, 24)
+
+Routing Path for (5, 19) -> (7, 21): 
+(5, 19) -> (6, 20) -> (7, 21)
+Total Wirelength: 2
+
+
+Routing Path for (7, 21) -> (7, 21): 
+(7, 21)
+Total Wirelength: 0
+
+
+Routing Path for (9, 16) -> (8, 21): 
+(9, 16) -> (8, 17) -> (8, 18) -> (8, 19) -> (8, 20) -> (8, 21)
+Total Wirelength: 5
+
+
+Routing Path for (21, 19) -> (21, 24): 
+(21, 19) -> (20, 20) -> (21, 21) -> (21, 22) -> (21, 23) -> (21, 24)
+Total Wirelength: 5
+
+
+Routing Path for (26, 17) -> (26, 19): 
+(26, 17) -> (26, 18) -> (26, 19)
+Total Wirelength: 2
+
+
+Routing Path for (23, 12) -> (26, 23): 
+(23, 12) -> (24, 13) -> (25, 14) -> (26, 15) -> (25, 16) -> (26, 17) -> (25, 18) -> (25, 19) -> (26, 20) -> (26, 21) -> (26, 22) -> (26, 23)
+Total Wirelength: 11
+
+
+Routing Path for (11, 12) -> (11, 12): 
+(11, 12)
+Total Wirelength: 0
+
+
+Routing Path for (12, 13) -> (12, 13): 
+(12, 13)
+Total Wirelength: 0
+
+
+Routing Path for (11, 13) -> (12, 13): 
+(11, 13) -> (12, 13)
+Total Wirelength: 1
+
+
+Routing Path for (11, 12) -> (12, 13): 
+(11, 12) -> (12, 13)
+Total Wirelength: 1
+
+
+Routing Path for (26, 24) -> (27, 24): 
+(26, 24) -> (27, 24)
+Total Wirelength: 1
+
+
+Routing Path for (12, 13) -> (13, 13): 
+(12, 13) -> (13, 13)
+Total Wirelength: 1
+
+
+Routing Path for (13, 13) -> (13, 13): 
+(13, 13)
+Total Wirelength: 0
+
+
+Routing Path for (12, 12) -> (13, 13): 
+(12, 12) -> (13, 13)
+Total Wirelength: 1
+
+
+Routing Path for (13, 12) -> (13, 12): 
+(13, 12)
+Total Wirelength: 0
+
+
+Routing Path for (13, 12) -> (13, 11): 
+(13, 12) -> (13, 11)
+Total Wirelength: 1
+
+
+Routing Path for (12, 12) -> (13, 12): 
+(12, 12) -> (13, 12)
+Total Wirelength: 1
+
+
+Routing Path for (12, 11) -> (12, 12): 
+(12, 11) -> (12, 12)
+Total Wirelength: 1
+
+
+Routing Path for (12, 12) -> (12, 12): 
+(12, 12)
+Total Wirelength: 0
+
+
+Routing Path for (11, 13) -> (12, 12): 
+(11, 13) -> (12, 12)
+Total Wirelength: 1
+
+
+Routing Path for (12, 13) -> (11, 12): 
+(12, 13) -> (11, 12)
+Total Wirelength: 1
+
+
+Routing Path for (12, 12) -> (11, 12): 
+(12, 12) -> (11, 12)
+Total Wirelength: 1
+
+
+Routing Path for (11, 13) -> (11, 12): 
+(11, 13) -> (11, 12)
+Total Wirelength: 1
+
+
+Routing Path for (12, 13) -> (12, 12): 
+(12, 13) -> (12, 12)
+Total Wirelength: 1
+
+
+Routing Path for (12, 11) -> (11, 11): 
+(12, 11) -> (11, 11)
+Total Wirelength: 1
+
+
+Routing Path for (12, 12) -> (11, 11): 
+(12, 12) -> (11, 11)
+Total Wirelength: 1
+
+
+Routing Path for (11, 11) -> (11, 11): 
+(11, 11)
+Total Wirelength: 0
+
+
+Routing Path for (11, 12) -> (11, 11): 
+(11, 12) -> (11, 11)
+Total Wirelength: 1
+
+
+Routing Path for (26, 23) -> (27, 24): 
+(26, 23) -> (27, 24)
+Total Wirelength: 1
+
+
+Routing Path for (11, 13) -> (11, 13): 
+(11, 13)
+Total Wirelength: 0
+
+
+Routing Path for (12, 13) -> (11, 13): 
+(12, 13) -> (11, 13)
+Total Wirelength: 1
+
+
+Routing Path for (13, 12) -> (12, 13): 
+(13, 12) -> (12, 13)
+Total Wirelength: 1
+
+
+Routing Path for (13, 12) -> (13, 13): 
+(13, 12) -> (13, 13)
+Total Wirelength: 1
+
+
+Routing Path for (24, 24) -> (27, 24): 
+(24, 24) -> (25, 23) -> (26, 24) -> (27, 24)
+Total Wirelength: 3
+
+
+[RESULT] Congestion Summary:
+  - Overused Nodes: 0
+  - Max Congestion: 4
+  - Avg Congestion: 0.00
+[STATUS] Congestion: Balanced
