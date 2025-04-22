@@ -21,12 +21,12 @@ This project implements a **fast and congestion-aware global routing algorithm**
 Tested on small and large grid sizes:
 - 10×10 (Basic)
 - 324×324 (Large scale, 100+ nets)
-- 557x463 Grid
-- ISPD 2008 Global rounting benchmarks
+- 557x463 Grid Size (Maximum)
+- ISPD 2008 Global rounting benchmarks (adaptec, newblue, bigblue)
   
 Performance evaluated based on:
 - Total wirelength
-- Congestion distribution
+- Congestion distribution (max congestion, average congestion)
 - Routing success under different thresholds
 
 ---
