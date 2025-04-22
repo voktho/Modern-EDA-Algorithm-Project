@@ -18,6 +18,8 @@ This project implements a **fast and congestion-aware global routing algorithm**
 
 ## 📈 Benchmarking
 
+Check Release for benchmark Evaluation (link : https://github.com/voktho/Modern-EDA-Algorithm-Project/releases/tag/ISPD2008_Benchmark_Input_Output)
+
 Tested on small and large grid sizes:
 - 10×10 (Basic)
 - 324×324 (Large scale, 100+ nets)
